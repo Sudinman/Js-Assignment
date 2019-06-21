@@ -1,0 +1,7 @@
+img{
+    float: left;
+}
+.carousel-image-wrapper
+{
+    overflow: auto;
+}
